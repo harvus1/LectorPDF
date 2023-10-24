@@ -14,9 +14,11 @@ import java.util.logging.Logger;
 /**
  *
  * @author Pablo Garcia
+ * 
  */
 public class EscritorArchivo {
     private String nombre;
+    private String nombre2;
     private String autor;
     private String creador; 
     private char[] fechaCreacion; // 23
